@@ -1,1 +1,1 @@
-My first readme
+Second repository completed from git.
